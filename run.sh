@@ -11,3 +11,4 @@ echo "sourceing the local setup file for workspace"
 
 .  ./install/setup.bash
 
+echo "source complited "
