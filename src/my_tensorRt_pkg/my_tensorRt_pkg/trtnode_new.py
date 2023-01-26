@@ -445,8 +445,8 @@ class YoloTrt(Node):
 
         # Create the timer
         #self.timer = self.create_timer(timer_period, self.timer_callback)
-        PLUGIN_LIBRARY = "/home/ROS2_yolo/src/my_tensorRt_pkg/my_tensorRt_pkg/build/libmyplugins.so"
-        engine_file_path = "/home/ROS2_yolo/src/my_tensorRt_pkg/my_tensorRt_pkg/build/Vishvajit_trt.engine"
+        PLUGIN_LIBRARY = "/home/Ros2_Object_Detection/src/my_tensorRt_pkg/my_tensorRt_pkg/build/libmyplugins.so"
+        engine_file_path = "/home/Ros2_Object_Detection/src/my_tensorRt_pkg/my_tensorRt_pkg/build/Vishvajit_trt.engine"
 
         if len(sys.argv) > 1:
             engine_file_path = sys.argv[1]

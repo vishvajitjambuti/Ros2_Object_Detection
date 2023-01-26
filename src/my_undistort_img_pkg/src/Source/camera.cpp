@@ -106,7 +106,7 @@ void Camera::record(float fps){
 }
 
 void Camera::initializeCamera(bool record) {
-    readIntrinsicExtrinsic("/home/ROS2_yolo/src/my_undistort_img_pkg/src/Source/distortionMatrix.yml");
+    readIntrinsicExtrinsic("/home/Ros2_Object_Detection/src/my_undistort_img_pkg/src/Source/distortionMatrix.yml");
 
     if (record) {
 
