@@ -43,7 +43,7 @@ docker pull karandhage/thesis_version1
 - Docker run [guide](/src/Docker.md) 
 
 
-### Docker features  availability
+### Docker Features  Availability
 
 Docker comes with following packages preinstalled 
 
@@ -53,7 +53,7 @@ Docker comes with following packages preinstalled
 - tensor RT
 - [more details](/src/Docker.md)
 
-### Please Check Docker installation guide  [**here**](/src/Docker.md)
+### Please Check Docker Installation Guide  [**Click Here**](/src/Docker.md)
 
 ## Build the ROS2 Packages
 
@@ -63,12 +63,17 @@ Build the all the ros2 packages from src folder
 
 - And Run following command 
 
-
 ```python 
 colcon build or ./run.sh 
 
 ```
 
+- after this source the  setup.bash 
+
+
+```python 
+source install/setup.bash
+```
 
 ### Available packages and Usage
 
@@ -92,5 +97,5 @@ colcon build or ./run.sh
 
 #### my_yolo_launch
 
--  For mode details [**click here**](/src/)
+-  For mode details [**click here**](/src/launch.md)
 
