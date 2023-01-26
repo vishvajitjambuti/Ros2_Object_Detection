@@ -18,7 +18,7 @@ engine_file_path = "{your path}/src/my_tensorRt_pkg/my_tensorRt_pkg/build/Vishva
 
 - This are the following nodes are available in pkg  
 
-## TRT_node
+## Node: TRT_node
 
 This node is useful to detect objects from one camera 
 
@@ -34,7 +34,7 @@ This node is useful to detect objects from one camera
 \trt_image
 ```
 
-## twocam_trt
+## Node: twocam_trt
 
 
 This node is useful to detect objects from two camera 
@@ -55,7 +55,7 @@ This node is useful to detect objects from two camera
 ```
 
 
-## multicam_trt
+## Node: multicam_trt
 
 This node is useful to detect objects from four camera.
 

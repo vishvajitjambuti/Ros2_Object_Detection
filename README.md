@@ -81,21 +81,21 @@ source install/setup.bash
 
 #### my_camera_pkg
 
-- For more details [**click here**](/src/camera.md)
+- For more details [**click here**](/src/my_camera_pkg/camera.md)
 
 #### my_undistorted_img_pkg
 
-- For more details [**click here**](/src/undistorted.md)
+- For more details [**click here**](/src/my_undistort_img_pkg/undistorted.md)
 
 #### my_tensorRt_pkg
 
-- For mode details [**click here**](/src/tensorRt.md)
+- For mode details [**click here**](/src/my_tensorRt_pkg/tensorRt.md)
 
 #### my_yolov5_pkg
 
-- For mode details [**click here**](/src/yolov5.md)
+- For mode details [**click here**](/src/my_yolov5_pkg/yolov5.md)
 
 #### my_yolo_launch
 
--  For mode details [**click here**](/src/launch.md)
+-  For mode details [**click here**](/src/my_yolo_launch/launch.md)
 
