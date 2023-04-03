@@ -1,0 +1,4 @@
+%YAML:1.0
+---
+Address: "rtsp://192.168.73.13:8554/jpeg"
+Cameratype: "cameratype::Fisheye"

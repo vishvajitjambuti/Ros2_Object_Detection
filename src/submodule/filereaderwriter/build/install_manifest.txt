@@ -1,0 +1,4 @@
+/usr/local/include/filereaderwriter/fileReaderWriter.h
+/usr/local/lib/filereaderwriter/libfileReaderWriter_lib.a
+/usr/local/lib/filereaderwriter/filereaderwriter-config.cmake
+/usr/local/lib/filereaderwriter/filereaderwriter-config-noconfig.cmake

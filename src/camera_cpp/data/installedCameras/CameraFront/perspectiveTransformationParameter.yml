@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+perspectiveTransformationParameter: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ -4.46101284e+00, -1.11536560e+01, 3.96391455e+03,
+           1.66873187e-01, -1.26726513e+01, 2.94713135e+03, 4.44306643e-04,
+           -1.59718711e-02, 1. ]

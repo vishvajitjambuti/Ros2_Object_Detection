@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fileReaderWriter.h
+iostream
+-
+fstream
+-
+ctime
+-
+sys/stat.h
+-
+dirent.h
+-
+opencv4/opencv2/highgui.hpp
+-
+opencv4/opencv2/core/mat.hpp
+-
+
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/src/fileReaderWriter.cpp
+fileReaderWriter.h
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/src/fileReaderWriter.h
+

@@ -1,0 +1,14 @@
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/install/local.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/install.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/list_install_components.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/rebuild_cache.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/edit_cache.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/install/strip.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/CMakeFiles/filereaderwriter.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/install/strip.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/install/local.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/install.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/list_install_components.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/rebuild_cache.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/edit_cache.dir
+/home/vishvajit/camera_ros/src/submodule/filereaderwriter/build/src/CMakeFiles/fileReaderWriter_lib.dir

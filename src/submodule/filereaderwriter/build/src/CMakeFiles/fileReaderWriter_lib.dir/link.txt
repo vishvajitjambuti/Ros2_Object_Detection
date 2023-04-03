@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfileReaderWriter_lib.a  CMakeFiles/fileReaderWriter_lib.dir/fileReaderWriter.cpp.o
+/usr/bin/ranlib libfileReaderWriter_lib.a
